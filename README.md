@@ -1,4 +1,2 @@
-# HTML-Basic
- Primeiro Repositório Versionado
-
- HTML + CSS + JS
+# Python-Basic
+ Projetos de Python nível básico criados por mim mesmo.

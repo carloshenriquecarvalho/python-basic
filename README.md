@@ -1,2 +1,2 @@
 # Python-Basic
- Primeiro para projetos iniciantes em python.
+ Primeiro repositório para projetos iniciantes em python.
